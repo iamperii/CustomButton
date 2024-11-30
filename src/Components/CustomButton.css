@@ -1,0 +1,10 @@
+.warn{
+	border: 1px solid salmon;
+}
+button{
+	padding: 10px;
+	width: 100px;
+}
+.hint{
+	font-style: italic;
+}
